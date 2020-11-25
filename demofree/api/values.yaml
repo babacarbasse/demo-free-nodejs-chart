@@ -5,7 +5,7 @@
 replicaCount: 1
 image:
   repository: 200817/nodejs-demo-log
-  tag: f96b14c
+  tag: e242d6b
   pullPolicy: IfNotPresent
 imagePullSecrets: []
 nameOverride: ""
